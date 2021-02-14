@@ -1,87 +1,51 @@
 # Victor Hugo Heringer da Silva
 
-![location](./img/location.png)  [Nova Friburgo, RJ](https://www.google.com/maps?q=nova+friburgo&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiC_8S59ujfAhVCA9QKHeUqDZEQ_AUIDigB) 
+![mail](./img/mail.png) [danieltostes@live.com ]()
 
-![mail](./img/mail.png) [contato@victorheringer.com.br ]()
+![phone](./img/phone.png) [(22) 99275-3054](https://www.linkedin.com/in/danieltvaz/)
 
-![phone](./img/phone.png) [(21) 99760-5559](https://victorheringer.com.br/)
+![github](./img/github.png) [danieltvaz](https://github.com/danieltvaz)
 
-![github](./img/github.png) [VictorHeringer](https://github.com/VictorHeringer)
-
-
-*Programador Pleno, 26 anos, apaixonado por desenvolvimento web e modelagem computacional.*
+_Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Computacional._
 
 ## Educação
 
-### CEFET/NF - Licenciatura em Física 
-###### *De 2011 até 2016 - Completo*
+### UNOPAR - Tecnólogo em Gestão da Produção Industrial
 
-> A formação e trabalho como professor colaborou para o desenvolvimento de diversas *soft skills* dentre as quais podem ser citadas comunicação eficaz e fluência de ideias. O curso permitiu também a exploração da modelagem computacional para à física.
+###### _De 2019 até o 2022 - Cursando_
 
-### CEFET/NF - Técnico em Informática 
-###### *De 2011 até 2014 - Completo*
+> Formação em andamento no qual me ajuda desenvolver _SoftSkills_ como gerenciamento de fluxo produtivo, raciocínio lógico, comunicação interpessoal e habilidades administrativas.
 
-> O curso teve seu foco em formar profissionais para a inserção no mercado de trabalho como programador, principalmente na área de desenvolvimento web. Nele, foram abordados diversas linguagens de programação, paradígmas, boas práticas, banco de dados e etc.
+### ProgramadorBR - Curso de Desenvolvimento Web FullStack
 
-### CLE - Curso de Língua Inglesa 
-###### *De 2005 até 2010 - Completo*
+###### _De 2020 até 2022 - Cursando_
 
-> Além do curso, praticamente todo conteúdo de mídias que consumo hoje em dia (livros, podcasts, vídeos e documentação) são em inglês.
+> Curso focado em desenvolvimento Web no qual abrange toda stack, utilizando no Frontend as tecnologias HTML,CSS, JavaScript, ReactJS, jQuery, Firebase, BootStrap, React Native, React Redux, React Router. No backend as tecnologias estudadas são Node.JS, Node Express, Node EJS, login JWT e MongoDB.
+
+### Curso em Vídeo - Linguagem Python Básico
+
+###### _De 2020 até 2020 - Completo_
+
+> Adquiri habilidades básicas em Python com o curso.
 
 ## Experiência
 
-### Magnetis  - Programador Front-End
-###### *De Abril de 2019 até o momento*
+### Desenvolvedor Freelance - EasyDelivery
 
-> Sem descrição até o momento
+###### _De 2021 até o momento_
 
-```React```
+> Projeto criado e desenvolvido por eu mesmo, começou como uma base de estudos para minhas habilidades com Web e se tornou um projeto real. Ainda está em desenvolvimento, e já consegui garantias de compra do sistema por três comerciantes do ramo de fast food.
 
-### Agência Oasis  - Programador Full Stack
-###### *De Abril de 2018 até Abril 2019*
+### Gerente de Produção e Processos - Katro R Indústria de Cosméticos
 
-> Na Oasis trabalho primariamente com o desenvolvimento de um produto voltado para laboratórios veterinários chamado Life.Vet utilizando React e Laravel.
+###### _De 2019 até 2021_
 
-```React``` ```Laravel``` ```MySQL```
-
-
-### Feelancer - Programador Full Stack
-###### *De 2017 até o momento*
-
-> Como esporadicamente ofereço serviços de desenvolvimento de software como freelancer, tive a oportunidade de desenvolver projetos com diferentes tecnologias. Dentre os sistemas feitos, destaca-se o *Progressive Web App*: Sistema de Gerenciamento para Paciêntes (SGP). Utilizado para automação dos processos internos em clínicas médicas.
-
-```Laravel``` ```Vue.js``` ```AngularJs``` ```Python``` ```MySQL``` ```Firebase```
-
-### Aivis - Programador Full Stack
-###### *De 2016 até 2017*
-
-> A Aivis é uma startup localizada em Nova Friburgo/RJ que oferece um sistema web de gestão (ERP) de nome equivalente. Nela atuei como desenvolvedor remoto e fui responsável por diversas etapas do desenvolvimento do produto, realizando desde integrações com sistemas de pagamento e emissão de nota fiscal até a criação de interfaces.
-
-```PHP``` ```AngularJs``` ```MySQL```
-
-### CEFET/NF - Programador Estagiário Java
-###### *De 2014 até 2015*
-
-> Durante o estágio participei do desenvolvimento de um plugin para o software Funtester. O plugin em questão gerava código para testes End-to-End (E2E) de forma automatizada para aplicações web a partir da especificação dos casos de uso de um software.
-
-```Java``` ```Selenium``` ```Javascript```
-
-## Outros
-
-* Coautor do artigo [An Agent-oriented Ground Vehicle's Automation using Jason Framework](https://www.researchgate.net/publication/276027294_An_Agent-oriented_Ground_Vehicle's_Automation_using_Jason_Framework) apresentado na ICAART (International Conference on Agents and Artificial Intelligence) em 2014 na França.
-
-* Aluno bolsista do projeto de extensão Veículos Autônomos Inteligentes realizado no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/NF) em 2014.
-
-* Para o trabalho de monografia na graduação em Física onde exploro o benefício da utilização da simulação computacional como auxílio ao método de ensino tradicional, desenvolvi um software nomeado de Comphyss para realizar simulações das equações diferenciais parciais de Laplace e do Calor, afim de, tentar facilitar o aprendizado dos alunos de ensino superior neste tópico.
+> Oportunidade na qual desenvolveu minha habilidade de gerenciar processos de forma que obtenham agilidade, qualidade e com o menor custo possível. Habilidade na qual levo para meus sistemas, dividindo sistematicamente o projeto a fim de determinar o prazo de conclusão com a melhor qualidade possível.
 
 ## Competências
 
-Possuo experência com a *stack* inteira de desenvolvimento web, utilizando principalmente PHP e Javascript/Node. Linguagens essas nas quais acredito ter um bom domínio sobre o workflow geral envolvendo gerenciadores de dependência, alguns dos principais frameworks (Bootstrap, Express, React, Laravel, etc), ferramentas para testes unitários, TDD, pré processadores, ferramentas de automação e afins.
+Como iniciante na área de desenvolvimento Web, passo todas minhas horas vagas consumindo conteúdo e criando pequenos projetos para elevar meu nível como desenvolvedor. Pretendo ingressar no mercado de trabalho para vivenciar o dia a dia de um desenvolvedor profissional, com isso crescendo junto com a empresa na qual atuo.
 
-Tenho uma boa noção de Python e dos ecossistemas amplamente utilizados na computação científica como SciPy, além ter experiência com apresentação de dados utilizando Matplotlib e desenvolvimento de interfaces utilizando wxPython.
+---
 
-Tenho algum conhecimento em Java/JavaEE e em algumas das tecnologias como Maven e Hibernate.
-
---------
-
-Se quiser saber mais sobre mim, fico a disposção para conversar tomando um café  ou por videoconferência se você estiver muito longe.
+Estou a disposição para conversar sobre minhas habilidades, seja tomando um café ou por videoconferência.
