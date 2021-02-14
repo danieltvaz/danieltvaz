@@ -30,7 +30,7 @@ _Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Co
 
 ## Experiência
 
-### Desenvolvedor Freelance - EasyDelivery
+### Desenvolvedor Independente - EasyDelivery
 
 ###### _De 2021 até o momento_
 
