@@ -10,7 +10,7 @@ _Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Co
 
 ## Objetivos
 
-### Busco primeira oportunidade no mercado de desenvolvimento, com intuito de aprimorar minhas habilidades como desenvolvedor e crescer, me tornando um profissional cada vez mais completo.
+ Busco primeira oportunidade no mercado de desenvolvimento, com intuito de aprimorar minhas habilidades como desenvolvedor e crescer, me tornando um profissional cada vez mais completo.
 
 ## Educação
 
