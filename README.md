@@ -40,7 +40,7 @@ _Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Co
 
 ###### _De 2019 até 2021_
 
-> Oportunidade na qual desenvolveu minha habilidade de gerenciar processos de forma que obtenham agilidade, qualidade e com o menor custo possível. Habilidade na qual levo para meus sistemas, dividindo sistematicamente o projeto a fim de determinar o prazo de conclusão com a melhor qualidade possível.
+> Oportunidade na qual desenvolveu minha habilidade de gerenciar processos de forma que obtenham agilidade, qualidade e com o menor custo possível. Habilidade na qual levo para meus sistemas, dividindo sistematicamente o projeto a fim de determinar o prazo de conclusão com a melhor qualidade.
 
 ## Competências
 
