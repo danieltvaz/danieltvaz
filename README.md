@@ -18,13 +18,13 @@ _Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Co
 
 ###### _De 2020 até o 2022 - Cursando_
 
-> Formação em andamento no qual me ajuda desenvolver _SoftSkills_ como gerenciamento de fluxo produtivo, raciocínio lógico e habilidades administrativas.
+> Formação em andamento.
 
 ### UNOPAR - Superior em Gestão da Produção Industrial
 
 ###### _De 2019 até o 2022 - Cursando_
 
-> Formação em andamento no qual me ajuda desenvolver _SoftSkills_ como gerenciamento de fluxo produtivo, raciocínio lógico e habilidades administrativas.
+> Formação em andamento.
 
 ### ProgramadorBR - Curso de Desenvolvimento Web FullStack
 
