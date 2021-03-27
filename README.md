@@ -14,7 +14,13 @@ _Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Co
 
 ## Educação
 
-### UNOPAR - Tecnólogo em Gestão da Produção Industrial
+### UNOPAR - Superior em Análise e Desenvolvimento de Sistemas
+
+###### _De 2020 até o 2022 - Cursando_
+
+> Formação em andamento no qual me ajuda desenvolver _SoftSkills_ como gerenciamento de fluxo produtivo, raciocínio lógico e habilidades administrativas.
+
+### UNOPAR - Superior em Gestão da Produção Industrial
 
 ###### _De 2019 até o 2022 - Cursando_
 
