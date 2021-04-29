@@ -6,11 +6,11 @@
 
 ![github](./img/github.png) [danieltvaz](https://github.com/danieltvaz)
 
-_Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Computacional._
+_Desenvolvedor Web Fullstack, apaixonado por desenvolvimento Web e Lógica Computacional._
 
 ## Objetivos
 
- Busco primeira oportunidade no mercado de desenvolvimento, com intuito de aprimorar minhas habilidades como desenvolvedor e crescer, me tornando um profissional cada vez mais completo.
+ Desenvolver minhas habilidades como desenvolvedor, criando aplicações que mudam a vida das pessoas. 
 
 ## Educação
 
@@ -40,11 +40,17 @@ _Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Co
 
 ## Experiência
 
-### Desenvolvedor Independente - EasyDelivery
+### Tech lead - DevBuilders
 
 ###### _De 2021 até o momento_
 
-> Projeto criado e desenvolvido por eu mesmo, começou como uma base de estudos para minhas habilidades com Web e se tornou um projeto real com três clientes. 
+> Bootcamp criando para formar desenvolvedores prontos para o mercado de trabalho. Sou tech lead da equipe de desenvolvimento Frontend e colaborador na equipe de backend. Criamos projetos reais com os iniciantes, utilizando as tecnologias mais modernas. Minha função é liderar, ensinar, Desenvolvedor e claro, aprender um pouquinho a cada dia. 
+
+### Desenvolvedor Independente - EasyDelivery
+
+###### _De 2020 até 2021_
+
+> Projeto criado e desenvolvido por eu mesmo, começou como uma base de estudos para minhas habilidades com Web e se tornou um projeto real com clientes. 
 
 ### Gerente de Produção e Processos - Katro R Indústria de Cosméticos
 
@@ -52,15 +58,9 @@ _Programador iniciante, 30 anos, apaixonado por desenvolvimento Web e Lógica Co
 
 > Oportunidade na qual desenvolveu minha habilidade de gerenciar processos de forma que obtenham agilidade, qualidade e com o menor custo possível. Habilidade na qual levo para meus sistemas, dividindo sistematicamente o projeto a fim de determinar o prazo de conclusão com a melhor qualidade.
 
-### Técnico Securitário - BJC Bueno Seguros
-
-###### _De 2012 até 2018_
-
-> Atuando como técnico securitário, desenvolvi habilidades administrativas e de tratamento a clientes, ao longo de seis anos fechei mais de quinhentos contratos novos, 
-
 ## Competências
 
-Iniciante na área de desenvolvimento Web, estou apto a desenvolver projetos utilizando HTML, CSS e JavaScript e brevemente utilizando a biblioteca ReactJS e jQuery.
+Desenvolvo em toda stack da web utilizando JAVASCRIPT e seus frameworks e bibliotecas. Entre eles está React.js, Node.js e suas bibliotecas.
 
 ---
 
