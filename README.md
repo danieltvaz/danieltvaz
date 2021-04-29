@@ -60,7 +60,11 @@ _Desenvolvedor Web Fullstack, apaixonado por desenvolvimento Web e Lógica Compu
 
 ## Competências
 
-Desenvolvo em toda stack da web utilizando JAVASCRIPT e seus frameworks e bibliotecas. Entre eles está React.js, Node.js e suas bibliotecas.
+####### HTML
+####### CSS (SASS)
+####### JavaScript
+####### ReactJS (estudando)
+####### NodeJS (estudando)
 
 ---
 
