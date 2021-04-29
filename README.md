@@ -60,11 +60,11 @@ _Desenvolvedor Web Fullstack, apaixonado por desenvolvimento Web e Lógica Compu
 
 ## Competências
 
-####### HTML
-####### CSS (SASS)
-####### JavaScript
-####### ReactJS (estudando)
-####### NodeJS (estudando)
+###### HTML
+###### CSS (SASS)
+###### JavaScript
+###### ReactJS (estudando)
+###### NodeJS (estudando)
 
 ---
 
