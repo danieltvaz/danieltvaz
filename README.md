@@ -40,7 +40,7 @@ _Desenvolvedor Web Fullstack, apaixonado por desenvolvimento Web e Lógica Compu
 
 ## Experiência
 
-### Tech lead - DevBuilders
+### Frontend Tech Lead - Newbies Tecnologia S.A
 
 ###### _De 2021 até o momento_
 
