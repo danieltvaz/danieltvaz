@@ -10,7 +10,7 @@ _Desenvolvedor Web Fullstack, apaixonado por desenvolvimento Web e Lógica Compu
 
 ## Objetivos
 
- Desenvolver minhas habilidades como desenvolvedor, criando aplicações que mudam a vida das pessoas. 
+ Estou correndo atrás de realizar meu sonho de infância e me tornar dev fullstack, absorvendo o máximo de conhecimento que conseguir para elevar cada vez mais minha senioridade, assim posso oferecer soluções notórias ao meu time.
 
 ## Educação
 
@@ -40,31 +40,20 @@ _Desenvolvedor Web Fullstack, apaixonado por desenvolvimento Web e Lógica Compu
 
 ## Experiência
 
-### Frontend Tech Lead - Newbies Tecnologia S.A
-
-###### _De 2021 até o momento_
-
-> Bootcamp criando para formar desenvolvedores prontos para o mercado de trabalho. Sou tech lead da equipe de desenvolvimento Frontend e colaborador na equipe de backend. Criamos projetos reais com os iniciantes, utilizando as tecnologias mais modernas. Minha função é liderar, ensinar, Desenvolvedor e claro, aprender um pouquinho a cada dia. 
-
-### Desenvolvedor Independente - EasyDelivery
-
-###### _De 2020 até 2021_
-
-> Projeto criado e desenvolvido por eu mesmo, começou como uma base de estudos para minhas habilidades com Web e se tornou um projeto real com clientes. 
-
 ### Gerente de Produção e Processos - Katro R Indústria de Cosméticos
 
 ###### _De 2019 até 2021_
 
 > Oportunidade na qual desenvolveu minha habilidade de gerenciar processos de forma que obtenham agilidade, qualidade e com o menor custo possível. Habilidade na qual levo para meus sistemas, dividindo sistematicamente o projeto a fim de determinar o prazo de conclusão com a melhor qualidade.
 
+
 ## Competências
 
-###### HTML
-###### CSS (SASS)
-###### JavaScript
-###### ReactJS (estudando)
-###### NodeJS (estudando)
+###### HTML - Avançado
+###### CSS (SASS) - Avançado
+###### JavaScript - Avançado
+###### ReactJS - Avançado
+###### NodeJS  - Intermediário
 
 ---
 
