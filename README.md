@@ -36,24 +36,12 @@ Atualmente estou procurando espaço em uma equipe de pessoas legais com projetos
 
 ### ProgramadorBR - Curso de Desenvolvimento Web FullStack
 
-###### _De 2020 até 2022 - Cursando_
-
-> Curso focado em desenvolvimento Web no qual abrange toda stack, utilizando no Frontend as tecnologias HTML,CSS, JavaScript, ReactJS, jQuery, Firebase, BootStrap, React Native, React Redux, React Router. No backend as tecnologias estudadas são Node.JS, Node Express, Node EJS, login JWT e MongoDB.
-
 ### Curso em Vídeo - Linguagem Python Básico
 
-###### _De 2020 até 2020 - Completo_
+### Digital Innovation One
+> Javascript ES6, ReactJS Avançado, Scrum
 
-> Adquiri habilidades básicas em Python com o curso.
-
-## Experiência
-
-### Gerente de Produção e Processos - Katro R Indústria de Cosméticos
-
-###### _De 2019 até 2021_
-
-> Oportunidade na qual desenvolveu minha habilidade de gerenciar processos de forma que obtenham agilidade, qualidade e com o menor custo possível. Habilidade na qual levo para meus sistemas, dividindo sistematicamente o projeto a fim de determinar o prazo de conclusão com a melhor qualidade.
-
+###### 
 
 ## Competências
 
