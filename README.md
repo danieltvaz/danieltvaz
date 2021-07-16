@@ -58,8 +58,8 @@ Atualmente estou procurando espaço em uma equipe de pessoas legais com projetos
 ## Competências
 
 ###### HTML - Avançado
-###### CSS (SASS) - Avançado
-###### JavaScript - Avançado
+###### CSS (SASS, JSS, Styled Components) - Avançado
+###### JavaScript- Avançado
 ###### ReactJS - Avançado
 ###### NodeJS  - Intermediário
 
