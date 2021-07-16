@@ -8,11 +8,17 @@
 
 :globe_with_meridians: [danieltostes.dev](https://danieltostes.dev)
 
-_Desenvolvedor Web em formação, apaixonado por desenvolvimento de software e lógica Computacional._
+_Desenvolvedor Web frontend, apaixonado por desenvolvimento de software e lógica Computacional._
 
-## Objetivos
+## Resumo
 
- Estou correndo atrás de realizar meu sonho de infância e me tornar dev fullstack, absorvendo o máximo de conhecimento que conseguir para elevar cada vez mais minha senioridade, assim posso oferecer soluções notórias ao meu time. Para que isso aconteça, estou buscando uma vaga de estágio para ganhar a experiência de mercado necessária para dar outros passos. Tomei ciência dessa vaga pelo Bernardo Ferreira, através do linkedin.
+Desenvolvedor Web Frontend, prezo pelo código limpo e metodologias ágeis na entrega de resultados. Busco cada vez mais o conhecimento em novas tecnologias e aprimorar o que já domino. Minhas habilidades são HTML, CSS, JSS, SASS, Styled Componentes,  JavaScript, NodeJS e ReactJS.
+
+Sou prático para resolver problemas, principalmente de lógica. Tenho boa interação com pessoas dentro e fora do local de trabalho, tenho muita facilidade em fazer amizades e amo isso.
+
+Sou entusiasta da tecnologia desde criança, quando desenhava teclados na caixa de sapatos da minha mãe para brincar de programador!
+
+Atualmente estou procurando espaço em uma equipe de pessoas legais com projetos reais que agreguem valor e me desafiem a ser melhor.
 
 ## Educação
 
