@@ -2,7 +2,7 @@
 
 ![mail](./img/mail.png) [danieltostes@live.com ]()  ![phone](./img/phone.png) [(22) 99275-3054](https://www.linkedin.com/in/danieltvaz/)
 
-![github](./img/github.png) [danieltvaz](https://github.com/danieltvaz)  :globe_with_meridians: [danieltostes.dev](https://danieltostes.dev)
+![github](./img/github.png) [danieltvaz](https://github.com/danieltvaz)  :globe_with_meridians: [www.danieltostes.dev](https://danieltostes.dev)
 
 ## Resumo
 
