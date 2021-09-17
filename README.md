@@ -6,22 +6,31 @@
 
 ## Resumo
 
-Desenvolvedor Web Frontend, prezo pelo código limpo e metodologias ágeis na entrega de resultados. Busco cada vez mais o conhecimento em novas tecnologias e aprimorar o que já domino. Minhas habilidades são HTML, CSS, JSS, SASS, Styled Componentes,  JavaScript, NodeJS e ReactJS.
+Desenvolvedor Web Frontend, prezo pelo código limpo e metodologias ágeis na entrega de resultados. Busco cada vez mais o conhecimento em novas tecnologias e aprimorar o que já domino. Minhas habilidades são HTML, CSS, JSS, SASS, Styled Componentes,  JavaScript, NodeJS e ReactJS e VueJS.
 
-Sou prático para resolver problemas, principalmente de lógica. Tenho boa interação com pessoas dentro e fora do local de trabalho, tenho muita facilidade em fazer amizades e amo isso.
+## Experiência profissional
 
-Sou entusiasta da tecnologia desde criança, quando desenhava teclados na caixa de sapatos da minha mãe para brincar de programador!
+Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
+
+> Atuação como desenvolver responsável por todo Frontend da aplicação. Minha função é desenvolver novas funcionalidades e prestar manutenção do sistema, bem como corrigir bugs, utilizando VueJS.
 
 ## Educação
 
 ### UNOPAR - Superior em Análise e Desenvolvimento de Sistemas
 
-###### _De 2020 até o 2022 - Cursando_
+###### _De 2020 até 2022 - Cursando_
+
+### Let's Code - Web Fullstack Santander
+> Curso síncrono para desenvolvimento Web fullstack, provido através de uma bolsa selecionada pelo Santander Universidades. Fui um dos 200 entre 40.000 selecionados para o programa. Como principais tecnologias estão AngularJS e Java.
+
+###### _De 2021 até 2022 - Cursando_
+
+### Zero to Master - VueJS 3
+
+###### _De 2021 até 2022 - Cursando_
 
 ### ProgramadorBR - Curso de Desenvolvimento Web FullStack
-> HTML, CSS, JavaScript
-
-### Curso em Vídeo - Linguagem Python Básico
+> HTML, CSS, JavaScript, NodeJS, ReactJS
 
 ### Digital Innovation One
 > Javascript ES6, ReactJS Avançado, Scrum
@@ -34,4 +43,5 @@ Sou entusiasta da tecnologia desde criança, quando desenhava teclados na caixa 
 ###### CSS (SASS, JSS, Styled Components) - Avançado
 ###### JavaScript- Avançado
 ###### ReactJS - Avançado
+###### VueJS - Avançado
 ###### NodeJS  - Intermediário
