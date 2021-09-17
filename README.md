@@ -16,32 +16,23 @@ Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 
 ## Educação
 
-### UNOPAR - Superior em Análise e Desenvolvimento de Sistemas
+##### UNOPAR - Superior em Análise e Desenvolvimento de Sistemas
 
-###### _De 2020 até 2022 - Cursando_
-
-### Let's Code - Web Fullstack Santander
+##### Let's Code - Web Fullstack Santander
 > Curso síncrono para desenvolvimento Web fullstack, provido através de uma bolsa selecionada pelo Santander Universidades. Fui um dos 200 entre 40.000 selecionados para o programa. Como principais tecnologias estão AngularJS e Java.
 
-###### _De 2021 até 2022 - Cursando_
+##### Zero to Master - VueJS 3
 
-### Zero to Master - VueJS 3
+##### ProgramadorBR - Curso de Desenvolvimento Web FullStack - HTML, CSS, JavaScript, NodeJS, ReactJS
 
-###### _De 2021 até 2022 - Cursando_
-
-### ProgramadorBR - Curso de Desenvolvimento Web FullStack
-> HTML, CSS, JavaScript, NodeJS, ReactJS
-
-### Digital Innovation One
-> Javascript ES6, ReactJS Avançado, Scrum
+##### Digital Innovation One - Javascript ES6, ReactJS Avançado, Scrum
 
 ###### 
 
 ## Competências
 
-###### HTML - Avançado
-###### CSS (SASS, JSS, Styled Components) - Avançado
-###### JavaScript- Avançado
-###### ReactJS - Avançado
-###### VueJS - Avançado
-###### NodeJS  - Intermediário
+<img style="width:48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/><img style="width:48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html 5"/>
+<img style="width:48px" src="https://img.icons8.com/color/48/000000/css3.png" alt="css 3"/><img style="width: 48px" src="https://img.icons8.com/dotty/80/000000/react.png" alt="react js"/>
+<img style="width:48px" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js"/><img style="width:48px" src="https://img.icons8.com/windows/32/000000/node-js.png" alt="node js"/>
+
+
