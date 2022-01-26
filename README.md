@@ -20,8 +20,6 @@ Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 
 ##### Universidade Norte do Paraná - Superior em Análise e Desenvolvimento de Sistemas
 
-&nbsp;
-
 ##### Let's Code - Web Fullstack Santander
 
 > Curso síncrono para desenvolvimento Web fullstack, provido através de uma bolsa selecionada pelo Santander Universidades. Fui um dos 200 entre
