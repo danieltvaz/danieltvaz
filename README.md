@@ -13,7 +13,7 @@ e **mobile**.
 
 Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 
-> Atuação como desenvolver responsável por todo Frontend da aplicação. Minha função é desenvolver novas funcionalidades e prestar manutenção do
+> Atuação como desenvolver Frontendo. Minha função é desenvolver novas funcionalidades e prestar manutenção do
 > sistema com VueJS, bem como corrigir bugs e escrever testes.
 
 ## Educação
