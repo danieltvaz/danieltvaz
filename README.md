@@ -13,8 +13,8 @@ e **mobile**.
 
 Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 
-> Atuação como desenvolver Frontendo. Minha função é desenvolver novas funcionalidades e prestar manutenção do
-> sistema com VueJS, bem como corrigir bugs e escrever testes.
+> Atuação como desenvolver principal no Frontend. Minha função é desenvolver novas funcionalidades, mentorar devs com menos conhecimento e prestar manutenção do
+> sistema com VueJS, bem como corrigir bugs, melhorias de performance e testes.
 
 ## Educação
 
@@ -23,20 +23,64 @@ Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 ##### Let's Code - Web Fullstack Santander
 
 > Curso síncrono para desenvolvimento Web fullstack, provido através de uma bolsa selecionada pelo Santander Universidades. Fui um dos 200 entre
-> 40.000 selecionados para o programa. Como principais tecnologias estão AngularJS e Java.
-
-##### Zero to Master - VueJS 3
-
-##### ProgramadorBR - Curso de Desenvolvimento Web FullStack - HTML, CSS, JavaScript, NodeJS, ReactJS
-
-##### Digital Innovation One - Javascript ES6, ReactJS Avançado, Scrum
-
-###### Cod3rs academy - React Native
+> 40.000 selecionados para o programa. Como principais tecnologias estão Angular e Java.
 
 ## Competências
 
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/><img style="width:48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html 5"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/css3.png" alt="css 3"/><img style="width: 48px" src="https://img.icons8.com/dotty/80/000000/react.png" alt="react js"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="node js"/>
+<img style="width:48px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react native"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js"/><img style="width:48px" src="https://img.icons8.com/windows/32/000000/node-js.png" alt="node js"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="vue js"/>
+
+Stacks de maior interesse:
+
+• Mobile  
+• Web Frontend  
+
+Principais habilidades técnicas:
+
+• Javascript  
+• Typescript  
+• HTML  
+• CSS  
+• Sass  
+• CSSinJS  
+• API Rest  
+• Webpack CLI  
+
+• ReactJS
+ - React Router
+ - React testing library
+ - Redux
+ - Hooks
+ - Context API
+ - HOC
+ - i18n
+ - Styled Components
+
+• React Native
+ - React Navigation
+ - React testing library
+ - Redux
+ - Hooks
+ - Context API
+ - HOC
+ - i18n
+ - Async Storage
+ - MMKV Storage
+ - Styled Components
+
+• VueJS
+ - Composition API
+ - Options API
+ - Vuex
+ - Composables
+ - Vue Router
+ - Route guardians
+ - Styled Components
+ - Mixins
+
+• NodeJS
+ - Express
+
+
