@@ -6,7 +6,7 @@
 
 ## Resumo
 
-Desenvolvedor de software multidisciplinar, amplo conhecimento em JavaScript e seus frameworks. Especializado em desenvolvimento para **web**
+Desenvolvedor de software multidisciplinar, amplo conhecimento em JavaScript/Typescript e seus frameworks. Especializado em desenvolvimento para **web**
 e **mobile**.
 
 ## Experiência profissional
