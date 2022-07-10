@@ -11,6 +11,10 @@ e **mobile**.
 
 ## Experiência profissional
 
+RBM Web Sistemas - www.rbmweb.com.br - _Mobile Developer_ & _Web Developer_
+
+> Atuação como dev mobile e web, utilizando React Native, ReactJS, Typescript, Redux, Thunk, Styled components dentre outras ferramentas.
+
 Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 
 > Atuação como desenvolver principal no Frontend. Minha função é desenvolver novas funcionalidades, mentorar devs com menos conhecimento e prestar manutenção do
