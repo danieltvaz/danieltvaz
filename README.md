@@ -13,7 +13,7 @@ e **mobile**.
 
 RBM Web Sistemas - www.rbmweb.com.br - _Mobile Developer_ & _Web Developer_
 
-> Atuação como dev mobile e web, utilizando React Native, ReactJS, Typescript, Redux, Thunk, Styled components dentre outras ferramentas.
+> Atuação como líder técnico/dev mobile e web, utilizando React Native, ReactJS, Typescript, Redux, Thunk, Styled components dentre outras ferramentas.
 
 Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 
