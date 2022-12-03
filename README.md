@@ -63,6 +63,8 @@ Principais habilidades técnicas:
  - HOC
  - i18n
  - Styled Components
+ - Formik
+ - Yup
 
 • React Native
  - React Navigation
@@ -75,6 +77,8 @@ Principais habilidades técnicas:
  - Async Storage
  - MMKV Storage
  - Styled Components
+ - Formik
+ - Yup
 
 • VueJS
  - Composition API
@@ -85,6 +89,8 @@ Principais habilidades técnicas:
  - Route guardians
  - Styled Components
  - Mixins
+ - Formik
+ - Yup
 
 • NodeJS
  - Express
