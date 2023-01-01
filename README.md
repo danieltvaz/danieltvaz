@@ -94,5 +94,7 @@ Principais habilidades técnicas:
 
 • NodeJS
  - Express
+ - Sequelize
+ - MySql
 
 
