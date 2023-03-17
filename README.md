@@ -37,6 +37,7 @@ Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/css3.png" alt="css 3"/><img style="width: 48px" src="https://img.icons8.com/dotty/80/000000/react.png" alt="react js"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react native"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js"/><img style="width:48px" src="https://img.icons8.com/windows/32/000000/node-js.png" alt="node js"/>
+<img style="width:48px" src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql"/><img style="width:48px"/>
 
 Stacks de maior interesse:
 
