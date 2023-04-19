@@ -26,6 +26,10 @@ Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 
 > Ensino Superior completo em Análise e Desenvolvimento de Sistemas
 
+##### Universidade Norte do Paraná - MBA em gestão de projetos de TI
+
+> Master Business Degree em Gestão de projetos de TI
+
 ##### Let's Code - Web Fullstack Santander
 
 > Curso síncrono para desenvolvimento Web fullstack, provido através de uma bolsa selecionada pelo Santander Universidades. Fui um dos 200 entre
