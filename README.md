@@ -13,27 +13,19 @@ e **mobile**.
 
 RBM Web Sistemas - www.rbmweb.com.br - _Mobile Developer_ & _Web Developer_
 
-> Atuação como líder técnico/dev mobile e web, utilizando React Native, ReactJS, Typescript, Redux, Thunk, Styled components dentre outras ferramentas.
+> Atuação como líder técnico/desenvolvedor mobile e web, criei a nova arquitetura do aplicativo de conta digital, onde atingimos excelência em integridade e disponibilidade do produto.
 
 Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 
-> Atuação como desenvolver principal no Frontend. Minha função é desenvolver novas funcionalidades, mentorar devs com menos conhecimento e prestar manutenção do
-> sistema com VueJS, bem como corrigir bugs, melhorias de performance e testes.
+> Atuação como desenvolvedor frontend, fui arquiteto e desenvolvedor do novo sistema de backoffice da empresa. Além disso desenvolvi novas funcionalidades e solucionei problemas na plataforma principal da empresa, atingindo milhares de usuários a ter uma melhor experiência de uso.
 
 ## Educação
 
 ##### Universidade Norte do Paraná - Superior em Análise e Desenvolvimento de Sistemas
 
-> Ensino Superior completo em Análise e Desenvolvimento de Sistemas
-
 ##### Universidade Norte do Paraná - MBA em gestão de projetos de TI
 
-> Master Business Degree em Gestão de projetos de TI
-
-##### Let's Code - Web Fullstack Santander
-
-> Curso síncrono para desenvolvimento Web fullstack, provido através de uma bolsa selecionada pelo Santander Universidades. Fui um dos 200 entre
-> 40.000 selecionados para o programa. Como principais tecnologias estão Angular e Java.
+##### Universidade Norte do Paraná - Pós graduação em Engenharia de Software
 
 ## Competências
 
@@ -42,11 +34,6 @@ Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react native"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js"/><img style="width:48px" src="https://img.icons8.com/windows/32/000000/node-js.png" alt="node js"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql"/><img style="width:48px"/>
-
-Stacks de maior interesse:
-
-• Mobile  
-• Web Frontend  
 
 Principais habilidades técnicas:
 
@@ -102,5 +89,3 @@ Principais habilidades técnicas:
  - Sequelize
  - Prisma
  - MySql
-
-
