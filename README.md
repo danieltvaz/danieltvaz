@@ -86,6 +86,7 @@ Main technical skills:
 • NodeJS
  - Express
  - Sequelize
+ - Prisma
  - MySql
 
 
