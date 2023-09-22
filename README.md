@@ -29,64 +29,90 @@ Kotas Internet Services LTDA - www.kotas.com.br - _Lead Frontend Developer_
 ## Skills
 
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/><img style="width:48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html 5"/>
+<img style="width:48px" src="https://img.icons8.com/color/48/000000/typescript--v1.png" alt="typescript"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/css3.png" alt="css 3"/><img style="width: 48px" src="https://img.icons8.com/dotty/80/000000/react.png" alt="react js"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react native"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js"/><img style="width:48px" src="https://img.icons8.com/windows/32/000000/node-js.png" alt="node js"/>
 <img style="width:48px" src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql"/><img style="width:48px"/>
 
-Main technical skills:
-
-• Javascript  
-• Typescript  
-• HTML  
-• CSS  
-• Sass  
-• CSSinJS  
-• API Rest  
-• Webpack CLI  
-
-• ReactJS
+<details>
+ <summary>ReactJS</summary>
  - React Router
- - React testing library
- - Redux
- - Hooks
- - Context API
- - HOC
- - i18n
- - Styled Components
- - Formik
- - Yup
-
-• React Native
+ <br/>
+  - React testing library
+   <br/>
+  - Redux
+    <br/>
+  - Hooks
+    <br/>
+  - Context API
+    <br/>
+  - HOC
+    <br/>
+  - i18n
+    <br/>
+  - Styled Components
+    <br/>
+  - Formik
+    <br/>
+  - Yup
+    <br/>
+</details> 
+<details>
+<summary>React Native</summary>
  - React Navigation
+    <br/>
  - React testing library
+    <br/>
  - Redux
+    <br/>
  - Hooks
+    <br/>
  - Context API
+    <br/>
  - HOC
+    <br/>
  - i18n
+    <br/>
  - Async Storage
+    <br/>
  - MMKV Storage
+    <br/>
  - Styled Components
+    <br/>
  - Formik
+    <br/>
  - Yup
-
-• VueJS
+</details>
+<details>
+ <summary>VueJS</summary>
  - Composition API
+     <br/>
  - Options API
+     <br/>
  - Vuex
+     <br/>
  - Composables
+     <br/>
  - Vue Router
+     <br/>
  - Route guardians
+     <br/>
  - Styled Components
+     <br/>
  - Mixins
+     <br/>
  - Formik
+     <br/>
  - Yup
-
-• NodeJS
+ </details>
+ <details>
+<summary>NodeJS</summary>
  - Express
+       <br/>
  - Sequelize
+       <br/>
  - Prisma
+       <br/>
  - MySql
-
-
+ </details>
