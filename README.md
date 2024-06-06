@@ -1,119 +1,107 @@
-# Daniel Tostes Vaz
+# **Daniel Tostes Vaz**
 
-![mail](./img/mail.png) [danieltostes@live.com ]() ![phone](./img/phone.png) [(22) 99275-3054](https://www.linkedin.com/in/danieltvaz/)
+[![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png) danieltostes@live.com](mailto:danieltostes@live.com) | [![Phone](https://img.icons8.com/ios-glyphs/30/000000/phone.png) (22) 99275-3054](tel:+5522992753054) | [![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png) Daniel Tostes Vaz](https://www.linkedin.com/in/danieltvaz/) | [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) danieltvaz](https://github.com/danieltvaz) | [![Website](https://img.icons8.com/ios-glyphs/30/000000/domain.png) www.danieltostes.dev](https://www.danieltostes.dev)
 
-![github](./img/github.png) [danieltvaz](https://github.com/danieltvaz) :globe_with_meridians: [www.danieltostes.dev](https://www.danieltostes.dev)
+---
 
-## Resumo
+## **Resumo**
 
-Desenvolvedor de software multidisciplinar, amplo conhecimento em JavaScript/Typescript e seus frameworks. Especializado em desenvolvimento para **web**
-e **mobile**.
+Desenvolvedor de software multidisciplinar com amplo conhecimento em JavaScript/TypeScript e seus frameworks. Especializado em desenvolvimento para **web** e **mobile**, com experiência em liderar projetos e arquitetar soluções eficientes e escaláveis.
 
-## Experiência profissional
+---
 
-RBM Web Sistemas - www.rbmweb.com.br - _Mobile Developer_ & _Web Developer_
+## **Experiência Profissional**
 
-> Atuação como líder técnico/desenvolvedor mobile e web, criei a nova arquitetura do aplicativo de conta digital, onde atingimos excelência em integridade e disponibilidade do produto.
+**Dimensa Tecnologia (TOTVS + B3)**  
+_Líder Técnico_  
+www.rbmweb.com.br  
+*Julho 2022 - Presente*
 
-Kotas Serviços de Internet LTDA - www.kotas.com.br - _Frontend Developer_
+- Typescript, React Native, ReactJS, NodeJS, PHP
+- Liderança técnica no desenvolvimento de aplicativos móveis e web.
+- Criação de nova arquitetura para aplicativo de conta digital, melhorando integridade e disponibilidade.
+- Colaboração com equipes multifuncionais para alcançar excelência no produto.
 
-> Atuação como desenvolvedor frontend, fui arquiteto e desenvolvedor do novo sistema de backoffice da empresa. Além disso desenvolvi novas funcionalidades e solucionei problemas na plataforma principal da empresa, atingindo milhares de usuários a ter uma melhor experiência de uso.
+**Kotas Serviços de Internet LTDA**  
+_Desenvolvedor Frontend_  
+www.kotas.com.br  
+*Agosto 2021 - Julho 2022*
 
-## Educação
+- Typescript, VueJS
+- Desenvolvimento e arquitetura do novo sistema de backoffice da empresa.
+- Implementação de novas funcionalidades e resolução de problemas na plataforma principal, melhorando a experiência de milhares de usuários.
 
-##### Universidade Norte do Paraná - Superior em Análise e Desenvolvimento de Sistemas
+---
 
-##### Universidade Norte do Paraná - MBA em gestão de projetos de TI
+## **Educação**
 
-##### Universidade Norte do Paraná - Pós graduação em Engenharia de Software
+**Universidade Norte do Paraná**
 
-## Competências
+- **Superior em Análise e Desenvolvimento de Sistemas**  
+*Concluído em 2022*
 
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/><img style="width:48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html 5"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/typescript--v1.png" alt="typescript"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/css3.png" alt="css 3"/><img style="width: 48px" src="https://img.icons8.com/dotty/80/000000/react.png" alt="react js"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react native"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js"/><img style="width:48px" src="https://img.icons8.com/windows/32/000000/node-js.png" alt="node js"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql"/><img style="width:48px"/>
+- **MBA em Gestão de Projetos de TI**  
+*Concluído em 2023*
 
-<details>
- <summary>ReactJS</summary>
- - React Router
- <br/>
-  - React testing library
-   <br/>
-  - Redux
-    <br/>
-  - Hooks
-    <br/>
-  - Context API
-    <br/>
-  - HOC
-    <br/>
-  - i18n
-    <br/>
-  - Styled Components
-    <br/>
-  - Formik
-    <br/>
-  - Yup
-    <br/>
-</details> 
-<details>
-<summary>React Native</summary>
- - React Navigation
-    <br/>
- - React testing library
-    <br/>
- - Redux
-    <br/>
- - Hooks
-    <br/>
- - Context API
-    <br/>
- - HOC
-    <br/>
- - i18n
-    <br/>
- - Async Storage
-    <br/>
- - MMKV Storage
-    <br/>
- - Styled Components
-    <br/>
- - Formik
-    <br/>
- - Yup
-</details>
-<details>
- <summary>VueJS</summary>
- - Composition API
-     <br/>
- - Options API
-     <br/>
- - Vuex
-     <br/>
- - Composables
-     <br/>
- - Vue Router
-     <br/>
- - Route guardians
-     <br/>
- - Styled Components
-     <br/>
- - Mixins
-     <br/>
- - Formik
-     <br/>
- - Yup
- </details>
- <details>
-<summary>NodeJS</summary>
- - Express
-       <br/>
- - Sequelize
-       <br/>
- - Prisma
-       <br/>
- - MySql
- </details>
+- **Pós-Graduação em Engenharia de Software**  
+*Concluído em 2023*
+
+---
+
+## **Competências**
+
+### Linguagens e Ferramentas
+
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript--v1.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![ReactJS](https://img.icons8.com/dotty/80/000000/react.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![VueJS](https://img.icons8.com/color/48/000000/vue-js.png) ![NodeJS](https://img.icons8.com/windows/32/000000/node-js.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+
+### Frameworks e Bibliotecas
+
+**ReactJS**
+
+- React Router
+- React Testing Library
+- Redux
+- Hooks
+- Context API
+- HOC (Higher-Order Components)
+- i18n
+- Styled Components
+- Formik
+- Yup
+
+**React Native**
+
+- React Navigation
+- React Testing Library
+- Redux
+- Hooks
+- Context API
+- HOC (Higher-Order Components)
+- i18n
+- Async Storage
+- MMKV Storage
+- Styled Components
+- Formik
+- Yup
+
+**VueJS**
+
+- Composition API
+- Options API
+- Vuex
+- Composables
+- Vue Router
+- Route Guardians
+- Styled Components
+- Mixins
+- Formik
+- Yup
+
+**NodeJS**
+
+- Express
+- Sequelize
+- Prisma
+- MySQL
+
+---
