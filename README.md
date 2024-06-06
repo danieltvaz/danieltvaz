@@ -6,30 +6,37 @@
 
 ## **Resumo**
 
-Desenvolvedor de software multidisciplinar com amplo conhecimento em JavaScript/TypeScript e seus frameworks. Especializado em desenvolvimento para **web** e **mobile**, com experiência em liderar projetos e arquitetar soluções eficientes e escaláveis.
+Desenvolvedor de software multidisciplinar com amplo conhecimento em JavaScript/TypeScript e seus frameworks. Especializado em desenvolvimento para **web** e **mobile**, com experiência em arquitetar soluções eficientes e escaláveis.
 
 ---
 
 ## **Experiência Profissional**
 
 **Dimensa Tecnologia (TOTVS + B3)**  
-_Líder Técnico_  
-www.rbmweb.com.br  
+_Desenvolvedor de Software Sênior_  
+www.dimensa.com 
 *Julho 2022 - Presente*
 
 - Typescript, React Native, ReactJS, NodeJS, PHP
-- Liderança técnica no desenvolvimento de aplicativos móveis e web.
+- Referência técnica do time Conta Digital (sistema bancário).
 - Criação de nova arquitetura para aplicativo de conta digital, melhorando integridade e disponibilidade.
 - Colaboração com equipes multifuncionais para alcançar excelência no produto.
+- Metodologias ágeis
+- Clean Code
+- SOLID
+- Testes unitários
+- Banco de Dados MySQL / Postgres
+- Mensageria (RabbitMQ)
+- Restful API
 
 **Kotas Serviços de Internet LTDA**  
-_Desenvolvedor Frontend_  
+_Desenvolvedor de Software Pleno_  
 www.kotas.com.br  
 *Agosto 2021 - Julho 2022*
 
 - Typescript, VueJS
 - Desenvolvimento e arquitetura do novo sistema de backoffice da empresa.
-- Implementação de novas funcionalidades e resolução de problemas na plataforma principal, melhorando a experiência de milhares de usuários.
+- Implementação de novas funcionalidades e resolução de problemas na plataforma principal, impactando a experiência de milhares de usuários.
 
 ---
 
@@ -49,10 +56,6 @@ www.kotas.com.br
 ---
 
 ## **Competências**
-
-### Linguagens e Ferramentas
-
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript--v1.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![ReactJS](https://img.icons8.com/dotty/80/000000/react.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![VueJS](https://img.icons8.com/color/48/000000/vue-js.png) ![NodeJS](https://img.icons8.com/windows/32/000000/node-js.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
 
 ### Frameworks e Bibliotecas
 
