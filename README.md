@@ -60,51 +60,15 @@ www.kotas.com.br
 ### Frameworks e Bibliotecas
 
 **ReactJS**
-
-- React Router
-- React Testing Library
-- Redux
-- Hooks
-- Context API
-- HOC (Higher-Order Components)
-- i18n
-- Styled Components
-- Formik
-- Yup
+React Router, React Testing Library, Redux, Hooks, Context API, HOC, i18n, Styled Components
 
 **React Native**
-
-- React Navigation
-- React Testing Library
-- Redux
-- Hooks
-- Context API
-- HOC (Higher-Order Components)
-- i18n
-- Async Storage
-- MMKV Storage
-- Styled Components
-- Formik
-- Yup
+React Navigation, React Testing Library, Redux, Hooks, Context API, HOC, i18n, Async Storage, MMKV Storage, Styled Components
 
 **VueJS**
-
-- Composition API
-- Options API
-- Vuex
-- Composables
-- Vue Router
-- Route Guardians
-- Styled Components
-- Mixins
-- Formik
-- Yup
+Composition API, Options API, Vuex, Composables, Vue Router, Route Guardians, Styled Components, Mixins
 
 **NodeJS**
-
-- Express
-- Sequelize
-- Prisma
-- MySQL
+Express, Sequelize, Prisma, MySQL
 
 ---
