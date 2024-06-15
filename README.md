@@ -1,118 +1,74 @@
-# Daniel Tostes Vaz
+# **Daniel Tostes Vaz**
 
-![mail](./img/mail.png) [danieltostes@live.com ]() ![phone](./img/phone.png) [(22) 99275-3054](https://www.linkedin.com/in/danieltvaz/)
+[![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png) danieltostes@live.com](mailto:danieltostes@live.com) | [![Phone](https://img.icons8.com/ios-glyphs/30/000000/phone.png) +55 (22) 99275-3054](tel:+5522992753054) | [![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png) Daniel Tostes Vaz](https://www.linkedin.com/in/danieltvaz/) | [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) danieltvaz](https://github.com/danieltvaz) | [![Website](https://img.icons8.com/ios-glyphs/30/000000/domain.png) www.danieltostes.dev](https://www.danieltostes.dev)
 
-![github](./img/github.png) [danieltvaz](https://github.com/danieltvaz) :globe_with_meridians: [www.danieltostes.dev](https://www.danieltostes.dev)
+---
 
-## Resume
+## **Summary**
 
-Multidisciplinary software developer, broad knowledge with Javascript/Typescript and their frameworks. Specialist in **mobile** and **web development**.
+Multidisciplinary software developer passionate about technology, with experience in building efficient and scalable solutions.
 
-## Professional experiences
+---
 
-RBM Web Systems - www.rbmweb.com.br - _Tech Lead_ & _Mobile Developer_ & _Web Developer_
+## **Professional Experience**
 
-> Tech lead for web and mobile team, using React Native, ReactJS, Typescript, Redux, Thunk, Styled componentes and other tools.
+**Dimensa Tecnologia (TOTVS + B3)**  
+_Senior Software Developer_  
+www.dimensa.com  
+*July 2022 - Present*
 
-Kotas Internet Services LTDA - www.kotas.com.br - _Lead Frontend Developer_
+- TypeScript, React Native, ReactJS, NodeJS, PHP
+- Technical reference for the Digital Bank team.
+- Created a new architecture for the Digital Bank application, improving integrity and availability.
+- Collaborated with cross-functional teams to achieve product excellence.
+- Agile methodologies
+- Clean Code
+- SOLID principles
+- Unit testing
+- Databases: MySQL / Postgres
+- Messaging: RabbitMQ
+- RESTful API
 
-> As Lead on Kotas, my responsability was to develop new features, assist less experienced developer and build solid and scalable projects architecture from ground to the roof.
+**Kotas Serviços de Internet LTDA**  
+_Mid-Level Software Developer_  
+www.kotas.com.br  
+*August 2021 - July 2022*
 
-## Academic
+- TypeScript, VueJS
+- Developed and architected the company's new back-office system.
+- Implemented new features and resolved issues on the main platform, impacting the experience of thousands of users.
 
-##### Norte do Paraná University - Superior degree in Analysis and Systems Development
+---
 
-##### Norte do Paraná University - Master of Business Administration (MBA) in Project IT Management
+## **Education**
 
-##### Norte do Paraná University - Postgraduate in Software Engineering
+**North of Parana University**
 
-## Skills
+- **Bachelor's in Systems Analysis and Development**  
+*Completed in 2022*
 
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/><img style="width:48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html 5"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/typescript--v1.png" alt="typescript"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/css3.png" alt="css 3"/><img style="width: 48px" src="https://img.icons8.com/dotty/80/000000/react.png" alt="react js"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react native"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue js"/><img style="width:48px" src="https://img.icons8.com/windows/32/000000/node-js.png" alt="node js"/>
-<img style="width:48px" src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql"/><img style="width:48px"/>
+- **MBA in IT Project Management**  
+*Completed in 2023*
 
-<details>
- <summary>ReactJS</summary>
- - React Router
- <br/>
-  - React testing library
-   <br/>
-  - Redux
-    <br/>
-  - Hooks
-    <br/>
-  - Context API
-    <br/>
-  - HOC
-    <br/>
-  - i18n
-    <br/>
-  - Styled Components
-    <br/>
-  - Formik
-    <br/>
-  - Yup
-    <br/>
-</details> 
-<details>
-<summary>React Native</summary>
- - React Navigation
-    <br/>
- - React testing library
-    <br/>
- - Redux
-    <br/>
- - Hooks
-    <br/>
- - Context API
-    <br/>
- - HOC
-    <br/>
- - i18n
-    <br/>
- - Async Storage
-    <br/>
- - MMKV Storage
-    <br/>
- - Styled Components
-    <br/>
- - Formik
-    <br/>
- - Yup
-</details>
-<details>
- <summary>VueJS</summary>
- - Composition API
-     <br/>
- - Options API
-     <br/>
- - Vuex
-     <br/>
- - Composables
-     <br/>
- - Vue Router
-     <br/>
- - Route guardians
-     <br/>
- - Styled Components
-     <br/>
- - Mixins
-     <br/>
- - Formik
-     <br/>
- - Yup
- </details>
- <details>
-<summary>NodeJS</summary>
- - Express
-       <br/>
- - Sequelize
-       <br/>
- - Prisma
-       <br/>
- - MySql
- </details>
+- **Postgraduate in Software Engineering**  
+*Completed in 2023*
+
+---
+
+## **Skills**
+
+### Languages & Tools
+
+**Typescript**
+**ReactJS**  
+**React Native**  
+**VueJS**  
+**NodeJS**
+
+### Other Knowledge
+
+**Software Architecture**  
+**S.O.L.I.D**  
+**Clean Code**  
+**IT Project Management**  
+**Leadership**
