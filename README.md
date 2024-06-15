@@ -64,6 +64,7 @@ www.kotas.com.br
 **React Native**  
 **VueJS**  
 **NodeJS**
+**PHP**
 
 ### Other Knowledge
 
