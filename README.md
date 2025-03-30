@@ -17,7 +17,9 @@
 - **Arquitetura:** Design de Sistemas Escaláveis, SOLID, Clean Code, Fluxos assíncronos, Sistemas Resilientes
 - **Liderança:** Gestão de equipes técnicas, tomada de decisão estratégica, mentoria  
 
+
 ---
+
 
 ## **Experiência Profissional**  
 
@@ -34,7 +36,9 @@
 - **Sistema de Back-Office:** Arquitetura e desenvolvimento de plataforma que aumentou eficiência operacional em 30%.  
 - **Impacto:** Implementação de funcionalidades críticas para 50k+ usuários/mês.  
 
+
 ---
+
 
 ## **Formação**  
 **UNOPAR**  
@@ -42,7 +46,9 @@
 - **Pós-Graduação em Engenharia de Software** (2023)  
 - **Graduação em Análise e Desenvolvimento de Sistemas** (2022)  
 
+
 ---
+
 
 ## **Destaques**  
 - **Arquitetura de Software:** Projetou sistema bancário com 500k+ transações/mês usando microsserviços (Node.js + RabbitMQ + PHP).  
