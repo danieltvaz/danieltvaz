@@ -49,11 +49,3 @@
 
 
 ---
-
-
-## **Destaques**  
-- **Arquitetura de Software:** Projetou sistema bancário com 500k+ transações/mês usando microsserviços (Node.js + RabbitMQ + PHP).  
-- **Performance:** Redução de 25% na latência de APIs através de otimizações em bancos de dados e cache.  
-- **Código Sustentável:** Aplicação rigorosa de SOLID, Clean Code e testes unitários.  
-
----
