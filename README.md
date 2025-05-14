@@ -13,8 +13,8 @@
 - **Linguagens:** JavaScript, TypeScript, PHP  
 - **Front-end:** ReactJS, React Native, Vue.js  
 - **Back-end:** Node.js, NestJS, API RESTful  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Arquitetura:** Design de Sistemas Escaláveis, SOLID, Clean Code, Fluxos assíncronos, Sistemas Resilientes
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
+- **Arquitetura:** Design de Sistemas Escaláveis, SOLID, Clean Code, Fluxos assíncronos, Sistemas Resilientes, Mensageria, Fila
 - **Liderança:** Gestão de equipes técnicas, tomada de decisão estratégica, mentoria  
 
 
@@ -25,10 +25,11 @@
 
 ### **Líder de Desenvolvimento de Software**  
 **Dimensa Tecnologia (TOTVS + B3)** | Jul 2022 – Presente  
-- **Stack:** TypeScript, React Native, Node.js, NestJS, PHP, RabbitMQ  
-- **Arquitetura:** Redesenho completo do aplicativo do Banco Digital, reduzindo falhas críticas em 40% e garantindo escalabilidade.  
+- **Stack:** TypeScript, React Native, Node.js, NestJS, PHP 
+- **Arquitetura:** Redesenho completo do aplicativo do Banco Digital, garantindo performance e confiabilidade no produto.  
 - **Liderança:** Referência técnica para equipe de desenvolvedores, implementando padrões de código e revisões técnicas.  
-- **DevOps:** Integração de CI/CD e testes automatizados (Jest, Testing Library).  
+- **DevOps:** Integração de CI/CD e testes automatizados (Jest, Testing Library, Jenkins, Github Actions, Gitlab Pipelines).
+- **Infraestrutura:** AWS, Kubernetes, Heroku Enterprise, Linux, Apache, Nginx, AWS WAF, Migração de Sistemas e Serviços.
 
 ### **Desenvolvedor Pleno**  
 **Kotas Internet** | Ago 2021 – Jul 2022  
